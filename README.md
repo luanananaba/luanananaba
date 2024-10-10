@@ -1,12 +1,10 @@
-<h2 align="left">👋 Hi! Welcome to my Github profile</h2>
+## 👋 Hi! Welcome to my Github profile</h2>
+  
+  - My name is Luana Tatiana and I'm a Python Developer, from SP, Brazil</p>
 
 ###
 
-<p align="left">- My name is Luana Tatiana and I'm a Python Developer, from SP, Brazil</p>
-
-###
-
-<h2 align="right">My Stats</h2>
+## My Stats
 
 ###
 
@@ -16,7 +14,7 @@
 
 ###
 
-<h2 align="right">My Techs</h2>
+## My Techs
 
 ###
 
