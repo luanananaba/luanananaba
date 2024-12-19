@@ -1,6 +1,6 @@
 ## 👋 Hi! Welcome to my Github profile</h2>
   
-  - My name is Luana Tatiana and I'm a Python Developer, from SP, Brazil</p>
+  - My name is Luana Tatiana and I'm a Python Developer and GameDev, from SP, Brazil</p>
 
 ###
 
